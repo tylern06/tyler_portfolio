@@ -1,3 +1,13 @@
+/**
+ * Responsive mixin. The media breakpoints are as defined in
+ * the twitter bootstrap framework and supports responding to:
+ * - phone
+ * - tablet
+ * - desktop
+ * - large
+ * - above-phone
+ * - above-tablet
+*/
 /* Base CSS */
 body {
   color: #666;
@@ -1188,6 +1198,9 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 /* End Base CSS */
 /* Headers */
 /* Navigations */
+.navbar.navbar-default {
+  background: white; }
+
 .navbar {
   border: 0;
   border-radius: 0 !important;
@@ -1372,6 +1385,10 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   margin-bottom: 0;
   padding: 14px 0; }
 
+.navbar-header #logo-nav {
+  position: relative;
+  top: 10px; }
+
 .top-menu .right a {
   padding: 14px;
   margin-top: -2px; }
@@ -1465,7 +1482,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   background-color: #ccc; }
 
 #header-banner.demo-2 {
-  background: url("../images/banner-bg.jpg") no-repeat;
+  background: url("../images/true2.jpeg") no-repeat;
   background-size: cover;
   background-position: center;
   background-color: #ccc; }
@@ -1495,10 +1512,15 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   padding: 50px 0; }
 
 .banner-info {
-  background: rgba(255, 255, 255, 0.75);
   width: 400px;
   margin: 0 auto;
   padding: 50px 0; }
+  .banner-info h1 {
+    text-transform: uppercase;
+    color: white;
+    font-size: 36px !important; }
+  .banner-info p {
+    color: white; }
 
 .banner-info.primary {
   background: rgba(195, 157, 109, 0.75); }
@@ -1636,7 +1658,9 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   text-decoration: none;
   vertical-align: middle;
   border-radius: 50%;
-  margin: 3px; }
+  margin: 3px;
+  position: relative;
+  right: 25px; }
 
 .view-btn:hover {
   color: #fff;
@@ -1901,7 +1925,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   border-bottom: 1px solid #ebebeb; }
 
 .pagination {
-  margin-top: 30px;
+  margin-top: 10px;
   padding: 25px 0;
   border-top: 1px solid #ebebeb;
   border-bottom: 1px solid #ebebeb;
@@ -2286,7 +2310,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   margin-bottom: 0; }
 
 .pagination {
-  margin-top: 50px;
+  margin-top: 30px;
   padding: 25px 0;
   border-top: 1px solid #ebebeb;
   border-bottom: 1px solid #ebebeb;
@@ -2436,7 +2460,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 /* Content */
 /* Footers */
 footer {
-  background: #fff;
+  background: red;
   border-top: 1px solid #ebebeb;
   padding: 30px 0; }
 
@@ -3200,3 +3224,81 @@ footer .social a {
     margin-top: 0; } }
 /* End Min Widths */
 /* / End Media Screens */
+/*ng-view animation*/
+.slide {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%; }
+
+.slide.ng-enter,
+.slide.ng-leave {
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease; }
+
+.slide.ng-enter {
+  left: 100%; }
+
+.slide.ng-enter-active {
+  left: 0; }
+
+.slide.ng-leave {
+  left: 0; }
+
+.slide.ng-leave-active {
+  left: -100%; }
+
+.fade {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  opacity: 1; }
+
+.fade.ng-enter,
+.fade.ng-leave {
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease; }
+
+.fade.ng-enter {
+  opacity: 0; }
+
+.fade.ng-enter-active {
+  opacity: 1; }
+
+.fade.ng-leave {
+  opacity: 1; }
+
+.fade.ng-leave-active {
+  opacity: 0; }
+
+.pop {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0; }
+
+.pop.ng-enter,
+.pop.ng-leave {
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease; }
+
+.pop.ng-enter {
+  -webkit-transform: scale(0);
+  transform: scale(0); }
+
+.pop.ng-enter-active,
+.pop.ng-leave,
+.pop.ng-leave-active {
+  -webkit-transform: scale(1);
+  transform: scale(1); }
+
+.partials {
+  margin-top: 80px; }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #project .project-content-area, #project .project-sidebar {
+    margin-top: 60px; } }
