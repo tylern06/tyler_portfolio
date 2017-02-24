@@ -25,6 +25,9 @@ myAppModule.config(function ($routeProvider) {
   .when('/project/6',{
     templateUrl:'partials/project-6.html'
   })
+  .when('/contact',{
+    templateUrl:'partials/contact2.html'
+  })
 	.otherwise({
 		redirectTo: '/home'
 	});
