@@ -2460,7 +2460,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 /* Content */
 /* Footers */
 footer {
-  background: red;
+  background: white;
   border-top: 1px solid #ebebeb;
   padding: 30px 0; }
 
