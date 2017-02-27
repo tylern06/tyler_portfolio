@@ -1908,12 +1908,20 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 /* End Blog Small */
 /* Single Pages */
 #page-content {
-  margin-top: 150px;
+  padding: 50px 0; }
+
+#page-content-contact {
   padding: 50px 0;
+  margin-top: 150px;
   min-height: 580px; }
   @media (max-width: 767px) {
-    #page-content {
-      min-height: 400px; } }
+    #page-content-contact {
+      margin-top: 120px;
+      min-height: 450px; } }
+  @media (min-width: 768px) and (max-width: 991px) {
+    #page-content-contact {
+      margin-top: 120px;
+      min-height: 450px; } }
 
 /* Single Project */
 .project-info .info {
@@ -1980,7 +1988,6 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   position: relative; }
 
 .about-description {
-  background-color: #f8f8f8;
   padding: 30px; }
 
 .about-img {
@@ -3303,14 +3310,15 @@ footer .social a {
 
 .partials {
   margin-top: 80px; }
+  @media (max-width: 767px) {
+    .partials {
+      margin-top: 30px; } }
 
 @media (min-width: 768px) and (max-width: 991px) {
   #project .project-content-area, #project .project-sidebar {
     margin-top: 60px; } }
 
 .iconbox {
-  background: #fff;
-  border-bottom: 1px solid #d4d4d4;
   text-align: center;
   padding: 40px 20px;
   margin: 0 0 20px;
