@@ -1171,7 +1171,7 @@ input:focus {
   min-height: 580px;
   @include respondTo(phone,tablet) {
     margin-top: 120px;
-    min-height: 450px;
+    min-height: 480px;
   };
 }
 
@@ -2082,7 +2082,7 @@ footer .social a {
 .partials {
   margin-top: 80px;
   @include respondTo(phone) {
-    margin-top: 30px;
+    margin-top: 50px;
   };
 }
 
