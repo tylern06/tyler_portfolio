@@ -19,7 +19,6 @@ body {
   letter-spacing: 0.05em; }
 
 html, body {
-  height: 100%;
   margin: 0; }
 
 /* Typography */
@@ -1476,13 +1475,13 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   background-color: #ebebeb; }
 
 #header-banner.demo-1 {
-  background: url("../images/true.jpeg") no-repeat;
+  background: url("../images/true.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-color: #ccc; }
 
 #header-banner.demo-2 {
-  background: url("../images/true2.jpeg") no-repeat;
+  background: url("../images/true2.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-color: #ccc; }
@@ -1909,7 +1908,8 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 /* End Blog Small */
 /* Single Pages */
 #page-content {
-  padding: 50px 0; }
+  padding: 50px 0;
+  min-height: 650px; }
 
 /* Single Project */
 .project-info .info {
@@ -1981,7 +1981,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 
 .about-img {
   position: absolute;
-  background: url(../images/about-img.jpg) scroll center no-repeat;
+  background: url(../images/seattle2.jpg) center no-repeat;
   background-size: cover;
   height: 100%; }
 
@@ -2462,7 +2462,8 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 footer {
   background: white;
   border-top: 1px solid #ebebeb;
-  padding: 30px 0; }
+  padding: 30px 0;
+  height: 80px !important; }
 
 footer.dark {
   border-top: 1px solid #000; }
@@ -3302,3 +3303,32 @@ footer .social a {
 @media (min-width: 768px) and (max-width: 991px) {
   #project .project-content-area, #project .project-sidebar {
     margin-top: 60px; } }
+
+.iconbox {
+  background: #fff;
+  border-bottom: 1px solid #d4d4d4;
+  text-align: center;
+  padding: 40px 20px;
+  margin: 0 0 20px;
+  height: 350px; }
+
+.iconbox-icon {
+  margin: 0 0 15px;
+  font-size: 32px;
+  color: #222; }
+
+.iconbox-title {
+  margin: 0 0 15px;
+  padding: 0; }
+
+.iconbox {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px; }
+
+.java {
+  height: auto;
+  width: 200px;
+  margin-top: 40px;
+  margin-bottom: 30px; }
