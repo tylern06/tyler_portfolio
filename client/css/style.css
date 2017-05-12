@@ -1518,6 +1518,8 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
     text-transform: uppercase;
     color: white;
     font-size: 36px !important; }
+  .banner-info h5 {
+    color: white; }
   .banner-info p {
     color: white; }
 
