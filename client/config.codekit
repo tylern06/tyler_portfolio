@@ -198,6 +198,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/1200x900\/LE.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302421,
+		"inputAbbreviatedPath": "\/images\/1200x900\/LE.jpg",
+		"outputAbbreviatedPath": "\/images\/1200x900\/LE.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/1200x900\/Movieseeker_1200x900.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -227,6 +238,17 @@
 		"initialSize": 401576,
 		"inputAbbreviatedPath": "\/images\/1200x900\/Sweptaway_1200x900.jpg",
 		"outputAbbreviatedPath": "\/images\/1200x900\/Sweptaway_1200x900.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1200x900\/WE.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252025,
+		"inputAbbreviatedPath": "\/images\/1200x900\/WE.jpg",
+		"outputAbbreviatedPath": "\/images\/1200x900\/WE.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -341,6 +363,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/1600x1000\/LE1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245706,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/LE1.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/LE1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/LE2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 298315,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/LE2.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/LE2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/LE3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 188695,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/LE3.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/LE3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/1600x1000\/Movieseeker2_1600x1000.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -425,6 +480,50 @@
 		"initialSize": 413908,
 		"inputAbbreviatedPath": "\/images\/1600x1000\/Sweptaway_1600x1000.jpg",
 		"outputAbbreviatedPath": "\/images\/1600x1000\/Sweptaway_1600x1000.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/WE1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166199,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/WE1.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/WE1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/WE2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187753,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/WE2.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/WE2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/WE3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134567,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/WE3.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/WE3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/WE4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97434,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/WE4.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/WE4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1037,6 +1136,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/project-6.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/partials\/project7.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/project7.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
