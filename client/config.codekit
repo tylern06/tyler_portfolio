@@ -83,88 +83,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/documentation\/css\/prettify.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/css\/prettify.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/documentation\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/documentation\/documentation.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/documentation.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/documentation\/img\/download.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16217,
-		"inputAbbreviatedPath": "\/documentation\/img\/download.png",
-		"outputAbbreviatedPath": "\/documentation\/img\/download.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/documentation\/img\/welcome.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 67252,
-		"inputAbbreviatedPath": "\/documentation\/img\/welcome.jpg",
-		"outputAbbreviatedPath": "\/documentation\/img\/welcome.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/documentation\/js\/jquery.min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/js\/jquery.min.js",
-		"outputAbbreviatedPath": "\/documentation\/js\/min\/jquery.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 0
-		},
-	"\/documentation\/js\/layout.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/js\/layout.js",
-		"outputAbbreviatedPath": "\/documentation\/js\/min\/layout-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 0
-		},
-	"\/documentation\/js\/prettify\/prettify.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/js\/prettify\/prettify.js",
-		"outputAbbreviatedPath": "\/documentation\/js\/prettify\/min\/prettify-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 0
-		},
 	"\/images\/1200x900\/Douglas_1200x900.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -506,13 +424,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/1600x1000\/WE3.jpg": {
+	"\/images\/1600x1000\/WE3jpg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 134567,
-		"inputAbbreviatedPath": "\/images\/1600x1000\/WE3.jpg",
-		"outputAbbreviatedPath": "\/images\/1600x1000\/WE3.jpg",
+		"inputAbbreviatedPath": "\/images\/1600x1000\/WE3jpg.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/WE3jpg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
