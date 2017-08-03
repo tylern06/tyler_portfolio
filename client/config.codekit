@@ -94,6 +94,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/1200x900\/DWCover.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 238167,
+		"inputAbbreviatedPath": "\/images\/1200x900\/DWCover.jpg",
+		"outputAbbreviatedPath": "\/images\/1200x900\/DWCover.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/1200x900\/Grandcatch_1200x900.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -200,6 +211,61 @@
 		"initialSize": 449613,
 		"inputAbbreviatedPath": "\/images\/1600x1000\/Douglas_1600x1000.jpg",
 		"outputAbbreviatedPath": "\/images\/1600x1000\/Douglas_1600x1000.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/DW1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224448,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/DW1.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/DW1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/DW2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129149,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/DW2.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/DW2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/DW3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 247323,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/DW3.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/DW3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/DW4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 232831,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/DW4.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/DW4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/1600x1000\/DW5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95704,
+		"inputAbbreviatedPath": "\/images\/1600x1000\/DW5.jpg",
+		"outputAbbreviatedPath": "\/images\/1600x1000\/DW5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
